@@ -19,5 +19,5 @@ Demonstrates various regex techniques including:
 - Non-capturing groups
 - Files in this Repository
 
-### practice_2.ipynb: Contains exercises on extracting Twitter handles, financial risk types, and fiscal year periods.
-### regex_2.ipynb: Demonstrates regex applications for extracting phone numbers, financial report details, and structured section headings.
+practice_2.ipynb: Contains exercises on extracting Twitter handles, financial risk types, and fiscal year periods.
+regex_2.ipynb: Demonstrates regex applications for extracting phone numbers, financial report details, and structured section headings.
